@@ -26,6 +26,7 @@ You can also use a TextReference instead of a tiddler title:
 
 A similar syntax can be used to transclude a list of tiddlers matching a specified [[filter|Filters]]:
 
+Is this formatting correct? - slovuj
 ```
 {{{ [tag[mechanism]] }}}
 {{{ [tag[mechanism]] ||TemplateTitle}}}
